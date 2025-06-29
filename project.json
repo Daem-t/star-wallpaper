@@ -1,0 +1,11 @@
+{
+    "title": "Star Animation Wallpaper",
+    "version": "1.0",
+    "type": "website",
+    "url": "index.html",
+    "preview": "preview.jpg",
+    "fps": 60,
+    "width": 1920,
+    "height": 1080,
+    "tags": ["animation", "star", "background"]
+}
